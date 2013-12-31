@@ -1,4 +1,4 @@
-//csuc_http_vrgaonkar.c
+//http_server.c
 //Gaonkar, Vijay
 //vrgaonkar
 //Referred stackoverflow.com for calculating time used in printing server statistics
