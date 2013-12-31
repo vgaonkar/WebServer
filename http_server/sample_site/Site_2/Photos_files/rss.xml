@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>My Photos</title>
+    <link>file://localhost/Users/chris/Desktop/sample3/Site_2/Photos.html</link>
+    <description>Lorem ipsum dolor sit amet, ligula suspendisse nulla pretium, rhoncus tempor placerat fermentum, enim integer ad vestibulum volutpat. Nisl rhoncus turpis est, vel elit, congue wisi enim nunc ultricies sit, magna tincidunt.</description>
+    <item>
+      <title>Dog days</title>
+      <link>file://localhost/Users/chris/Desktop/sample3/Site_2/Photos.html#0</link>
+      <guid isPermaLink="false">765f90cd-7b4e-4f6a-aa66-17498a8247df</guid>
+      <enclosure url="file://localhost/Users/chris/Desktop/sample3/Site_2/Photos_files/Media/AA044669_a/AA044669_a.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/chris/Desktop/sample3/Site_2/Photos_files/Media/AA044669_a/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/chris/Desktop/sample3/Site_2/Photos_files/Media/AA044669_a/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_166_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Dog days&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Sue visiting from Boston</title>
+      <link>file://localhost/Users/chris/Desktop/sample3/Site_2/Photos.html#1</link>
+      <guid isPermaLink="false">8161cdfd-6bea-488b-887b-865a3a3f2213</guid>
+      <enclosure url="file://localhost/Users/chris/Desktop/sample3/Site_2/Photos_files/Media/skd267505sdc_a/skd267505sdc_a.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/chris/Desktop/sample3/Site_2/Photos_files/Media/skd267505sdc_a/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/chris/Desktop/sample3/Site_2/Photos_files/Media/skd267505sdc_a/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_166_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Sue visiting from Boston&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>The Summer Crew</title>
+      <link>file://localhost/Users/chris/Desktop/sample3/Site_2/Photos.html#2</link>
+      <guid isPermaLink="false">1bfbac46-c099-4e7e-b795-9a2dbe889229</guid>
+      <enclosure url="file://localhost/Users/chris/Desktop/sample3/Site_2/Photos_files/Media/skd267655sdc_a/skd267655sdc_a.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/chris/Desktop/sample3/Site_2/Photos_files/Media/skd267655sdc_a/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/chris/Desktop/sample3/Site_2/Photos_files/Media/skd267655sdc_a/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_166_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;The Summer Crew&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>
